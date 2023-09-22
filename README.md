@@ -4,8 +4,6 @@
 
 This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
 I built this webpage because I needed a place to record notes from the bootcamp I was attending. The webpage allows me to easily record notes and then access them at a later date. By building this webpage, I had to commit files to Git Multiple times using GitBash, which helped me learn how to create repositories and commit files using Git, instead of using GitHub directly.
-- What problem does it solve?
-- What did you learn?
 
 ## Installation
 There are no steps required to install this webpage
